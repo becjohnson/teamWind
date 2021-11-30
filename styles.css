@@ -33,3 +33,9 @@ div.marji{
     margin:auto;
     display: inline;
 }
+img.bec{
+    width: 100pt;
+    height: 100pt;
+    border:black solid 1pt;
+    border-radius:33pt;
+}
