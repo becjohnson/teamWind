@@ -1,4 +1,7 @@
-.heading{text-align:center;}
+.heading{text-align:center;background-color:black;color:aliceblue;}
+body{
+    background-image: url("./assets/download.jpg");
+}
 h2{ 
     font-size: 84pt; 
     font-family:Arial, Helvetica, sans-serif;
@@ -15,34 +18,42 @@ div{
 div.bec{
     width: 31%;
     height: 300pt;
-    border:black solid 1pt;
     margin:auto;
     display: inline-block;
+    background-color: aliceblue;
+    border-radius: 33pt;
 }
 div.jon{
     width: 31%;
     height: 300pt;
-    border:black solid 1pt;
     margin:auto;
     display:inline-block;
+    background-color: aliceblue;
+    border-radius: 33pt;
 }
 div.marji{
+    width: 31%;
+    height: 300pt;
+    border-radius: 33pt;
+    border-radius: 33pt;
     width: 25%;
     height: 800pt;
     border:black solid 1pt;
     margin:auto;
     display: inline;
+    background-color: aliceblue;
 }
 img.jon{
     width: 400px;
     height: 300px;
-
+}
   img.bec{
     width: 100pt;
     height: 100pt;
     border:black solid 1pt;
     border-radius:33pt;
+}
 img.marji{
-    width: 400px;
-    height:300px;
+    width: 300px;
+    height: 200px;
 }
