@@ -33,7 +33,11 @@ div.marji{
     margin:auto;
     display: inline;
 }
-img.bec{
+img.jon{
+    width: 400px;
+    height: 300px;
+
+  img.bec{
     width: 100pt;
     height: 100pt;
     border:black solid 1pt;
@@ -41,5 +45,4 @@ img.bec{
 img.marji{
     width: 400px;
     height:300px;
-
 }
