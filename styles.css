@@ -36,13 +36,24 @@ div.marji{
     height: 300pt;
     border-radius: 33pt;
     border-radius: 33pt;
+    width: 25%;
+    height: 800pt;
+    border:black solid 1pt;
     margin:auto;
     display: inline;
     background-color: aliceblue;
 }
-img.bec{
+img.jon{
+    width: 400px;
+    height: 300px;
+}
+  img.bec{
     width: 100pt;
     height: 100pt;
     border:black solid 1pt;
     border-radius:33pt;
+}
+img.marji{
+    width: 300px;
+    height: 200px;
 }
