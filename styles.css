@@ -27,11 +27,11 @@ div.jon{
     display:inline-block;
 }
 div.marji{
-    width: 25%;
-    height: 800pt;
+    width: 60%;
+    height: 600pt;
     border:black solid 1pt;
     margin:auto;
-    display: inline;
+    display: block;
 }
 img.marji{
     width: 400px;
